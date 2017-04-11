@@ -7,3 +7,6 @@ Technologies:
 - HTML
 - CSS
 - Bootstrap.js
+
+Instructions:
+1.` Download "Project 1 - Tribute Page.html" and double-click.

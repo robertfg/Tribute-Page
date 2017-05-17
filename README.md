@@ -6,7 +6,7 @@ This is the first of the Basic Front End Development Projects: a simple tribute 
 Technologies:
 - HTML
 - CSS
-- Bootstrap.js
+- Bootstrap
 
 Instructions:
 1. Download "Project 1 - Tribute Page.html".

@@ -9,4 +9,5 @@ Technologies:
 - Bootstrap.js
 
 Instructions:
-1.` Download "Project 1 - Tribute Page.html" and double-click.
+1.`Download "Project 1 - Tribute Page.html"
+2. Douuble-click the file.
